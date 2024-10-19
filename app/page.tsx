@@ -5,6 +5,7 @@ export default function Home() {
     <div>
       <h1>Hi ya</h1>
       <p>ffffffffffff</p>
+      <h2>try rebase</h2>
     </div>
   );
 }
